@@ -131,6 +131,12 @@ fun mostrarMenu(tipo: Int) {
                 5 -> ejerciciosListas_U3_05()
                 6 -> ejerciciosListas_U3_06()
                 7 -> ejerciciosDiccionarios_U3_01()
+                8 -> ejerciciosDiccionarios_U3_02()
+                9 -> ejerciciosDiccionarios_U3_03()
+                10 -> ejerciciosDiccionarios_U3_04()
+                11 -> ejerciciosDiccionarios_U3_05()
+                12 -> ejerciciosDiccionarios_U3_06()
+                13 -> ejerciciosDiccionarios_U3_07()
             }
         }
     }
