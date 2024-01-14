@@ -127,6 +127,10 @@ fun mostrarMenu(tipo: Int) {
 
             when (op) {
                 1 -> ejerciciosListas_U3_01()
+                3 -> ejerciciosListas_U3_03()
+                5 -> ejerciciosListas_U3_05()
+                6 -> ejerciciosListas_U3_06()
+                7 -> ejerciciosDiccionarios_U3_01()
             }
         }
     }
